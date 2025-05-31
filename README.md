@@ -1,6 +1,6 @@
 👋 Hi, I’m @CiroSannino02  
 👀 I’m interested in new technologies, sports, and travel !
-🌱 I’m currently learning embedded systems, microcontroller programming (STM32), and SwiftUI  
+🌱 I’m currently learning embedded systems, microcontroller programming (STM32), and SwiftUI as a engineer
 💞️ I’m looking to collaborate on open-source projects related to electronics, app development, or education  
 📫 How to reach me: ciro.sanninocs02@gmail.com 
 😄 Pronouns: he/him
